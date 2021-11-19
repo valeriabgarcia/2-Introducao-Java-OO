@@ -1,0 +1,43 @@
+https://cursos.alura.com.br/formacao-java
+https://cursos.alura.com.br/course/java-introducao-orientacao-objetos
+
+1 - O PROBLEMA DO PARADIGMA PROCEDURAL 
+Conhecemos o paradigma procedural, que era utilizado como prática de programação antes da introdução das linguagens orientadas a objetos.
+No paradigma procedural, dados e funções não possuem um vínculo tão forte, resultando em mais uma nova função ou trecho de código com responsabilidade parecida.
+Conhecemos a ideia central do paradigma da orientação a objetos, que é criar unidades de código que combinem os dados associados a determinada informação com as 
+  funcionalidades aplicadas aqueles dados (por exemplo, CPF + validação). São os atributos e métodos.
+
+2 - INTRODUÇÃO À ORIENTAÇÃO A OBJETOS
+O que é uma classe
+Como criar uma classe
+Como criar um objeto ou instância de uma classe
+O que são atributos
+Como definir e visualizar valores de atributos
+Como funciona a atribuição de uma referência à uma variável
+
+3 - DEFININDO COMPORTAMENTO
+como definir métodos com parâmetros e retorno
+como retornar algo usando a palavra chave return
+como usar a referência this para acessar um atributo
+que podemos passar uma referência como parâmetro do método
+métodos são chamadas a partir da referência usando o operador
+
+4 - COMPOSIÇÃO DE OBJETOS
+Realizar o relacionamento entre classes através de composição;
+Vantagens de se isolar informações repetidas em outra classe;
+Detalhes da composição;
+NullPointerException para atributos não inicializados e seus cuidados.
+
+5 - ENCAPSULAMENTO E VISIBILIDADE
+Atributos privados, restringindo o acesso aos atributos
+Encapsulamento de código
+Métodos de leitura dos atributos, os getters
+Métodos de modificação dos atributos, os setters
+Getters e Setters de referência
+
+6 - CONSTRUTORES E MEMBROS ESTÁTICOS
+Construtor da classe, possibilitando receber argumentos e inicializar atributos a partir da criação de um objeto
+	Com isso, a inicialização dos atributos recebidos no construtor torna-se obrigatória
+Atributos da classe, os atributos estáticos
+Métodos da classe, os métodos estáticos
+Ausência de referência, do this, dentro de métodos estáticos
